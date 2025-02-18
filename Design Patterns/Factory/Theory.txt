@@ -1,0 +1,7 @@
+Factory Pattern
+
+The Factory pattern defines an interface for creating objects but lets subclasses alter the type of objects that will be created. It promotes loose coupling by eliminating the need to bind application-specific classes into the code.
+
+Use Cases:
+    Creating objects based on configuration or user input.
+    Decoupling object creation from object usage.
