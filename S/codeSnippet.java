@@ -25,3 +25,5 @@ class ReportSaver {
         // Save report to file logic
     }
 }
+
+//The Report class is now only responsible for generating reports, and the ReportSaver class handles saving the report to a file.
