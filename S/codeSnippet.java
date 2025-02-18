@@ -1,3 +1,4 @@
+package S;
 //Violation of SRP
 
 class Report {
