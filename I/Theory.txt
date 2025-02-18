@@ -1,0 +1,4 @@
+I - Interface Segregation Principle
+
+CLients should not be forced to depend on interfaces they do not use.
+Instead of having a large interface. split it into smaller, more specefic ones.
