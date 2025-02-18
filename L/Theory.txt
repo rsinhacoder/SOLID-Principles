@@ -1,0 +1,6 @@
+L - Liskov substitution Principle
+
+Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+
+    In other words, subclasses should adhere to the behaviour expected by the superclass
+
